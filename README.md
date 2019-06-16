@@ -5,4 +5,5 @@ testing github
 
 // June additions to readme
 
-VS Code test
+// VS Code test 
+Test, but this time in a VS Code created branch
