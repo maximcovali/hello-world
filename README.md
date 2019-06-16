@@ -3,6 +3,4 @@ testing github
 
 // new readme-edits branch testing
 
-// June additions to readme
-
-VS code test additions
+June additions to readme
