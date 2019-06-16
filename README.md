@@ -1,4 +1,6 @@
 # hello-world
-testing git+github
+testing github
 
-new readme-edits branch testing
+// new readme-edits branch testing
+
+June additions to readme
